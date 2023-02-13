@@ -6,6 +6,7 @@
     "req": "yarn install && sass-migrator division node_modules/quasar/src/css/**/*.sass",
     "dev": "tauri dev",
     "front:dev": "vite --port 1240",
+    "build": "tauri build",
     "front:build": "vite build",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },

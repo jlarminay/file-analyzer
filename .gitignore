@@ -1,6 +1,6 @@
 # Builds
-/bin
 /dist
+/src-tauri/target
 
 # Dependancies
 /node_modules
