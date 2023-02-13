@@ -1,0 +1,9 @@
+# Builds
+/bin
+/dist
+
+# Dependancies
+/node_modules
+
+# Logs
+*.log

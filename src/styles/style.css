@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+  @apply tw_m-0 tw_p-0 tw_text-2xl;
+}
+h2 {
+  @apply tw_m-0 tw_p-0 tw_text-xl;
+}
+
+p {
+  @apply tw_m-0 tw_p-0 tw_text-lg;
+}
